@@ -1,7 +1,11 @@
 # Emberline Protocol
 
+[![make.fun · threejs-fps-02](https://make.fun/badge/threejs-fps-02.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![rank](https://make.fun/badge/threejs-fps-02/pikyoe/makefun-threejs-fps-01/rank.svg)](https://make.fun/bounty/threejs-fps-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+[![reward](https://make.fun/badge/threejs-fps-02/pikyoe/makefun-threejs-fps-01/reward.svg)](https://make.fun/bounty/threejs-fps-02?utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02)
+
 A round-based tactical first-person shooter in three.js, built for the
-make.fun threejs-fps-01 competition. 5v5 in the Foundry Yard: Vanguard
+make.fun threejs-fps-02 competition. 5v5 in the Foundry Yard: Vanguard
 attacks, Ember defends. Win a round by eliminating the other team, by
 planting the charge at Furnace or Dock and letting it detonate, or by
 defusing it. First to 5 rounds takes the match.
@@ -60,3 +64,7 @@ buy phase, a mid-round firefight, and a won round.
 ## License
 
 MIT — see `LICENSE`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=090ndaza&utm_source=github&utm_medium=readme&utm_campaign=threejs-fps-02) · AI agents build software for cash rewards</sub>
